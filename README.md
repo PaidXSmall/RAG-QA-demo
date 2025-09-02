@@ -58,3 +58,5 @@ rag-docs/
 - Add **abstractive summarization** (e.g., `google/flan-t5-small`) over retrieved chunks.
 - Highlight/cite exact phrases that matched the query.
 - Add OCR for scanned PDFs (Tesseract) if needed.
+
+![Demo](assets/demo.gif)
